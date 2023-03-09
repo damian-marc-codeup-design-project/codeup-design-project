@@ -10,5 +10,8 @@
 body{
     background-color: #F0F0F0;
 }
-.class {
+.selected-work-images {
+    height: 280px;
+    width: 100%;
+    object-fit: cover;
 }
